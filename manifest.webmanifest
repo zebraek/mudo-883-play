@@ -1,0 +1,46 @@
+{
+  "id": "./",
+  "name": "88.3MHz 무월도",
+  "short_name": "무월도",
+  "description": "해무 속의 마지막 방송 — 섬에서 보내는 7일 동안, 실종된 DJ의 방송 테이프로 23년 전 하룻밤을 되감는 테이프 추리 어드벤처.",
+  "lang": "ko",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#0F1317",
+  "background_color": "#0F1317",
+  "categories": [
+    "games",
+    "entertainment"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "name_en": "88.3MHz Muwol Island",
+  "short_name_en": "Muwol"
+}
