@@ -1,0 +1,1 @@
+function e(e,t){let n=()=>{t.classList.toggle(`on`,e.scrollHeight-e.clientHeight-e.scrollTop>4)};e.addEventListener(`scroll`,n,{passive:!0});let r=typeof ResizeObserver==`function`?new ResizeObserver(n):null;return r?.observe(e),{refresh:n,stop(){e.removeEventListener(`scroll`,n),r?.disconnect()}}}export{e as t};
