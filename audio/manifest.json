@@ -1,0 +1,4 @@
+{
+  "_note": "여기 적힌 파일만 SoundSystem 이 읽는다(큐마다 404 를 내지 않기 위해). 파일을 넣으면 이름을 files 에 추가: <큐 id>.ogg 또는 .mp3, 시그널은 signal_intro/signal_tape/signal_ending. 없는 큐는 src/ui/synth.ts 합성으로 대체된다.",
+  "files": []
+}

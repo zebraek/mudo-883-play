@@ -1,0 +1,1 @@
+var e={c:`ㅊ`,f:`ㄹ`,h:`ㅗ`,m:`ㅡ`,r:`ㄱ`};function t(t,n){return t===n||t===n.toUpperCase()||e[n]!==void 0&&t===e[n]}export{t as n,e as t};

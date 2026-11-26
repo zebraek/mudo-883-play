@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="무월도 테이프 릴">
+<rect width="64" height="64" rx="10" fill="#0f1317"/>
+<rect x="14" y="18" width="36" height="6" rx="2" fill="#c9d1d6"/>
+<rect x="22" y="41.75" width="20" height="1.5" fill="#e0a84a"/>
+<circle cx="22" cy="34" r="8" fill="none" stroke="#e0a84a" stroke-width="3"/><circle cx="22" cy="34" r="2" fill="#e0a84a"/><circle cx="42" cy="34" r="8" fill="none" stroke="#e0a84a" stroke-width="3"/><circle cx="42" cy="34" r="2" fill="#e0a84a"/>
+</svg>

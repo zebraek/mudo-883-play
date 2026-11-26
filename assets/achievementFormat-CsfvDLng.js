@@ -1,0 +1,1 @@
+import{s as e}from"./i18n-YNvYytfu.js";import{V as t}from"./App-CWCRnx1R.js";var n=e(`achievements`,t),r={get text(){return n.postmark}};function i(e){if(!e)return``;let t=new Date(e);if(Number.isNaN(t.getTime()))return``;let n=e=>String(e).padStart(2,`0`);return`${t.getFullYear()}-${n(t.getMonth()+1)}-${n(t.getDate())}`}export{i as n,r as t};
